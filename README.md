@@ -1,1 +1,1 @@
-This is the first react-native application made by me.
+Simple react-native application.
